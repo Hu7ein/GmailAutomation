@@ -11,8 +11,9 @@
 #### Gherkin is used for developing test cases
 #### Java is used for gluing the code
 #### Selenium is used for automation
-#### maven file(POM.xml) is used for installing the dependencies 
+#### Maven file(POM.xml) is used for installing the dependencies 
+#### Excel Sheet of test cases is also attached
 
-### For Executing the code Run  the feature file src->test->resources->Features->Compose.features
+**For Executing the code Run  the feature file src->test->resources->Features->Compose.features**
 
 
